@@ -9,7 +9,7 @@
     "start": "node dist/index.js",
     "prestart": "npm run build",
     "test": "jest",
-    "vercel-build": "tsc"
+    "vercel-build": "npm run build"
   },
   "keywords": [],
   "author": "alfaarghya",
