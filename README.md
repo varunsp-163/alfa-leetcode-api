@@ -1,4 +1,4 @@
-<h1 align="center">alfa-leetcode-api</h1>
+<h1 align="center">leetcode-api</h1>
 <div align="center">
 
 ### The API for retrieving your LeetCode profile & Problems statistics
@@ -15,20 +15,20 @@
 
 ## About ✨
 
-At First, I struggled to find proper documentation for the `leetcode.com/graphql`. After scouring various articles about the LeetCode public API, I still couldn't find the comprehensive documentation I was looking for. Fueled by the desire to fill this gap I created **alfa-leetcode-api**.
+At First, I struggled to find proper documentation for the `leetcode.com/graphql`. After scouring various articles about the LeetCode public API, I still couldn't find the comprehensive documentation I was looking for. Fueled by the desire to fill this gap I created **leetcode-api**.
 
-**alfa-leetcode-api** is a custom solution born out of the need for a well-documented and detailed LeetCode API. This project is designed to provide developers with endpoints that offer insights into a user's profile, badges, solved questions, contest details, contest history, submissions, and also daily questions, selected problem, list of problems.
+**leetcode-api** is a custom solution born out of the need for a well-documented and detailed LeetCode API. This project is designed to provide developers with endpoints that offer insights into a user's profile, badges, solved questions, contest details, contest history, submissions, and also daily questions, selected problem, list of problems.
 
 ## API URL 🌐
 
 ```
-https://alfa-leetcode-api.onrender.com/
+https://leetcode-api.onrender.com/
 ```
 
 ## Run with docker 🐳
 
 ```
-docker run -p 3000:3000 alfaarghya/alfa-leetcode-api:2.0.1
+docker run -p 3000:3000 alfaarghya/leetcode-api:2.0.1
 ```
 
 ## Wanna Contribute 🤔??

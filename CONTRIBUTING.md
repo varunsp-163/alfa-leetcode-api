@@ -11,13 +11,13 @@
   first open your CLI and clone the repo locally. But don't forget to replace **username** with your GitHub username
 
   ```bash
-  git clone https://github.com/username/alfa-leetcode-api.git
+  git clone https://github.com/username/leetcode-api.git
   ```
 
 - #### 👋🏽 Go to the Project Folder
 
   ```bash
-  cd alfa-leetcode-api
+  cd leetcode-api
   ```
 
 - #### 🚀 Start the Project with Docker
@@ -36,13 +36,13 @@
   first open your CLI and clone the repo locally. But don't forget to replace **username** with your GitHub username
 
   ```bash
-  git clone https://github.com/username/alfa-leetcode-api.git
+  git clone https://github.com/username/leetcode-api.git
   ```
 
 - #### 👋🏽 Go to the Project Folder
 
   ```bash
-  cd alfa-leetcode-api
+  cd leetcode-api
   ```
 
 - #### 🚀 Install Required Modules
